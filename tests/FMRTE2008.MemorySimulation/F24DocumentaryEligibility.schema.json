@@ -1,0 +1,366 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "F24.2 closed eligibility evidence matrix",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "kind",
+    "source",
+    "gates",
+    "risks",
+    "decision"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "kind": {
+      "const": "f24-documentary-eligibility-offline"
+    },
+    "source": {
+      "const": {
+        "gatePath": "tests/FMRTE2008.MemorySimulation/F22ApprovalGates.json",
+        "riskPath": "tests/FMRTE2008.MemorySimulation/F23ResidualRisks.json",
+        "sufficiencyPath": "tests/FMRTE2008.MemorySimulation/F24B03Sufficiency.json",
+        "humanDecisionPath": "tests/FMRTE2008.MemorySimulation/F23HumanDecisionNotMade.json",
+        "gateSha256": "cc6295e8696293c2c80bc968008b0cc340aeb741a63aeec185bbeede0f8530f8",
+        "riskSha256": "32c125bec19d3bd1c15327c32be6b1f9fa530c7735464cf5cdb6278847cecec6",
+        "sufficiencySha256": "8cd9163dc5f9227981e718d35c654481e8a7b867f33079783f96416474981da8",
+        "humanDecisionSha256": "a7823a5a4a2833afa9aafbd7b71bdabecbbe31a7bb9390e97472fab0992dce7c"
+      }
+    },
+    "gates": {
+      "const": [
+        {
+          "gateId": "G1",
+          "criteria": [
+            "A01",
+            "A02"
+          ],
+          "riskIds": [
+            "RA-01",
+            "RA-06"
+          ],
+          "observationIds": [
+            "R01",
+            "R02"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "documentaryEligibility": "NOT_ELIGIBLE",
+          "humanApproval": false
+        },
+        {
+          "gateId": "G2",
+          "criteria": [
+            "A03",
+            "A04",
+            "A05",
+            "A10"
+          ],
+          "riskIds": [
+            "RA-05"
+          ],
+          "observationIds": [
+            "R03",
+            "R04",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "documentaryEligibility": "NOT_ELIGIBLE",
+          "humanApproval": false
+        },
+        {
+          "gateId": "G3",
+          "criteria": [
+            "A06",
+            "A07",
+            "A08"
+          ],
+          "riskIds": [
+            "RA-02",
+            "RA-03",
+            "RA-04"
+          ],
+          "observationIds": [
+            "R05",
+            "R06",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "documentaryEligibility": "NOT_ELIGIBLE",
+          "humanApproval": false
+        },
+        {
+          "gateId": "G4",
+          "criteria": [
+            "A09",
+            "A11"
+          ],
+          "riskIds": [
+            "RA-07",
+            "RA-08"
+          ],
+          "observationIds": [
+            "R01",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "documentaryEligibility": "NOT_ELIGIBLE",
+          "humanApproval": false
+        },
+        {
+          "gateId": "G5",
+          "criteria": [
+            "A12"
+          ],
+          "riskIds": [],
+          "observationIds": [
+            "R01",
+            "R02",
+            "R03",
+            "R04",
+            "R05",
+            "R06",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "documentaryEligibility": "NOT_ELIGIBLE",
+          "humanApproval": false
+        }
+      ]
+    },
+    "risks": {
+      "const": [
+        {
+          "riskId": "RA-01",
+          "gateId": "G1",
+          "criteria": [
+            "A01",
+            "A02"
+          ],
+          "observationIds": [
+            "R01",
+            "R02"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "status": "PENDING",
+          "accepted": false,
+          "acceptanceReference": null
+        },
+        {
+          "riskId": "RA-02",
+          "gateId": "G3",
+          "criteria": [
+            "A06",
+            "A07",
+            "A08"
+          ],
+          "observationIds": [
+            "R05",
+            "R06",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "status": "PENDING",
+          "accepted": false,
+          "acceptanceReference": null
+        },
+        {
+          "riskId": "RA-03",
+          "gateId": "G3",
+          "criteria": [
+            "A06",
+            "A07",
+            "A08"
+          ],
+          "observationIds": [
+            "R05",
+            "R06",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "status": "PENDING",
+          "accepted": false,
+          "acceptanceReference": null
+        },
+        {
+          "riskId": "RA-04",
+          "gateId": "G3",
+          "criteria": [
+            "A06",
+            "A07",
+            "A08"
+          ],
+          "observationIds": [
+            "R05",
+            "R06",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "status": "PENDING",
+          "accepted": false,
+          "acceptanceReference": null
+        },
+        {
+          "riskId": "RA-05",
+          "gateId": "G2",
+          "criteria": [
+            "A03",
+            "A04",
+            "A05",
+            "A10"
+          ],
+          "observationIds": [
+            "R03",
+            "R04",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "status": "PENDING",
+          "accepted": false,
+          "acceptanceReference": null
+        },
+        {
+          "riskId": "RA-06",
+          "gateId": "G1",
+          "criteria": [
+            "A01",
+            "A02"
+          ],
+          "observationIds": [
+            "R01",
+            "R02"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "status": "PENDING",
+          "accepted": false,
+          "acceptanceReference": null
+        },
+        {
+          "riskId": "RA-07",
+          "gateId": "G4",
+          "criteria": [
+            "A09",
+            "A11"
+          ],
+          "observationIds": [
+            "R01",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "status": "PENDING",
+          "accepted": false,
+          "acceptanceReference": null
+        },
+        {
+          "riskId": "RA-08",
+          "gateId": "G4",
+          "criteria": [
+            "A09",
+            "A11"
+          ],
+          "observationIds": [
+            "R01",
+            "R07"
+          ],
+          "requiredProvenanceCriteria": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05"
+          ],
+          "status": "PENDING",
+          "accepted": false,
+          "acceptanceReference": null
+        }
+      ]
+    },
+    "decision": {
+      "const": {
+        "approved": false,
+        "operational": false,
+        "gateA12": "GATE-BLOQUEADO",
+        "b03": "PENDING-DECLARED",
+        "humanDecision": "NOT_MADE",
+        "humanReviewOccurred": false,
+        "documentaryEligibility": "NOT_ELIGIBLE",
+        "risksAccepted": 0,
+        "approvedPlayerMaps": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "kind": "f24-b03-sufficiency-inventory-offline",
+  "sources": {
+    "f21Path": "tests/FMRTE2008.MemorySimulation/F21B03Evidence.json",
+    "f21Sha256": "6e4f40eca3e437cbfd91f0191c372b6cfe4f579d93ed27d6e1aca5ea719748d8",
+    "f23B03Path": "tests/FMRTE2008.MemorySimulation/F23B03ProvenanceGaps.json",
+    "f23B03Sha256": "e2221552209889f5575716c51b40d8e92e79145d95cbd4638970f70670569b75",
+    "consolidatedPath": "tests/FMRTE2008.MemorySimulation/F23ConsolidatedEvidence.json",
+    "mappingRepository": "marcosvilhena87/FM2008.mapping",
+    "mappingCommit": "df5be0493a1ac7be57208ff0e91c2d7193dfec73"
+  },
+  "criteria": [
+    {
+      "criterionId": "P01",
+      "sourceField": "executor"
+    },
+    {
+      "criterionId": "P02",
+      "sourceField": "observedAt"
+    },
+    {
+      "criterionId": "P03",
+      "sourceField": "environment"
+    },
+    {
+      "criterionId": "P04",
+      "sourceField": "collectionMethod"
+    },
+    {
+      "criterionId": "P05",
+      "sourceField": "externalCorroboration"
+    }
+  ],
+  "observations": [
+    {
+      "observationId": "R01",
+      "sourcePath": "research/builds/fm2008-8.0.2v1-first-save-distributed-sampling-2026-11-18.md",
+      "sourceBlobSha": "fcbdffa2b846af2a36feaebca25b59a27f7c0912",
+      "sourceEvidenceStatus": "user-reported-not-independently-audited",
+      "provenanceStatus": "PENDING-DECLARED",
+      "sufficiency": "INSUFFICIENT_PRESERVED",
+      "criteria": [
+        {
+          "criterionId": "P01",
+          "sourceField": "executor",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P02",
+          "sourceField": "observedAt",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P03",
+          "sourceField": "environment",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P04",
+          "sourceField": "collectionMethod",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P05",
+          "sourceField": "externalCorroboration",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        }
+      ]
+    },
+    {
+      "observationId": "R02",
+      "sourcePath": "research/builds/fm2008-8.0.2v1-first-save-distributed-sampling-2026-11-18.md",
+      "sourceBlobSha": "fcbdffa2b846af2a36feaebca25b59a27f7c0912",
+      "sourceEvidenceStatus": "user-reported-not-independently-audited",
+      "provenanceStatus": "PENDING-DECLARED",
+      "sufficiency": "INSUFFICIENT_PRESERVED",
+      "criteria": [
+        {
+          "criterionId": "P01",
+          "sourceField": "executor",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P02",
+          "sourceField": "observedAt",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P03",
+          "sourceField": "environment",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P04",
+          "sourceField": "collectionMethod",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P05",
+          "sourceField": "externalCorroboration",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        }
+      ]
+    },
+    {
+      "observationId": "R03",
+      "sourcePath": "research/builds/fm2008-8.0.2v1-first-save-distributed-sampling-2026-11-18.md",
+      "sourceBlobSha": "fcbdffa2b846af2a36feaebca25b59a27f7c0912",
+      "sourceEvidenceStatus": "user-reported-not-independently-audited",
+      "provenanceStatus": "PENDING-DECLARED",
+      "sufficiency": "INSUFFICIENT_PRESERVED",
+      "criteria": [
+        {
+          "criterionId": "P01",
+          "sourceField": "executor",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P02",
+          "sourceField": "observedAt",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P03",
+          "sourceField": "environment",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P04",
+          "sourceField": "collectionMethod",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P05",
+          "sourceField": "externalCorroboration",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        }
+      ]
+    },
+    {
+      "observationId": "R04",
+      "sourcePath": "research/builds/fm2008-8.0.2v1-first-save-r04-profile-checks.csv",
+      "sourceBlobSha": "45d50af819f0429e1bf887fee4b908e262b88d49",
+      "sourceEvidenceStatus": "user-reported-not-independently-audited",
+      "provenanceStatus": "PENDING-DECLARED",
+      "sufficiency": "INSUFFICIENT_PRESERVED",
+      "criteria": [
+        {
+          "criterionId": "P01",
+          "sourceField": "executor",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P02",
+          "sourceField": "observedAt",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P03",
+          "sourceField": "environment",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P04",
+          "sourceField": "collectionMethod",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P05",
+          "sourceField": "externalCorroboration",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        }
+      ]
+    },
+    {
+      "observationId": "R05",
+      "sourcePath": "research/builds/fm2008-8.0.2v1-r05-week-advance-2026-11-18.md",
+      "sourceBlobSha": "6f9be7702e01e4023aef95d1efa540c399887d1f",
+      "sourceEvidenceStatus": "user-reported-not-independently-audited",
+      "provenanceStatus": "PENDING-DECLARED",
+      "sufficiency": "INSUFFICIENT_PRESERVED",
+      "criteria": [
+        {
+          "criterionId": "P01",
+          "sourceField": "executor",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P02",
+          "sourceField": "observedAt",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P03",
+          "sourceField": "environment",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P04",
+          "sourceField": "collectionMethod",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P05",
+          "sourceField": "externalCorroboration",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        }
+      ]
+    },
+    {
+      "observationId": "R06",
+      "sourcePath": "research/builds/fm2008-8.0.2v1-r06-normal-restart-2026-11-18.md",
+      "sourceBlobSha": "89a1dae5102062d5e880158a7aa485a1483b028c",
+      "sourceEvidenceStatus": "user-reported-not-independently-audited",
+      "provenanceStatus": "PENDING-DECLARED",
+      "sufficiency": "INSUFFICIENT_PRESERVED",
+      "criteria": [
+        {
+          "criterionId": "P01",
+          "sourceField": "executor",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P02",
+          "sourceField": "observedAt",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P03",
+          "sourceField": "environment",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P04",
+          "sourceField": "collectionMethod",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P05",
+          "sourceField": "externalCorroboration",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        }
+      ]
+    },
+    {
+      "observationId": "R07",
+      "sourcePath": "research/builds/fm2008-8.0.2v1-r07-consolidation.md",
+      "sourceBlobSha": "5af5157240def9b9b31d2a9533377f89892b94a6",
+      "sourceEvidenceStatus": "user-reported-not-independently-audited",
+      "provenanceStatus": "PENDING-DECLARED",
+      "sufficiency": "INSUFFICIENT_PRESERVED",
+      "criteria": [
+        {
+          "criterionId": "P01",
+          "sourceField": "executor",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P02",
+          "sourceField": "observedAt",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P03",
+          "sourceField": "environment",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P04",
+          "sourceField": "collectionMethod",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        },
+        {
+          "criterionId": "P05",
+          "sourceField": "externalCorroboration",
+          "status": "MISSING",
+          "primaryEvidenceReference": null,
+          "humanVerified": false
+        }
+      ]
+    }
+  ],
+  "decision": {
+    "approved": false,
+    "operational": false,
+    "gateA12": "GATE-BLOQUEADO",
+    "b03": "PENDING-DECLARED",
+    "humanApproval": null,
+    "decision": "NOT_MADE",
+    "sufficiency": "INSUFFICIENT_PRESERVED",
+    "approvedPlayerMaps": 0
+  }
+}

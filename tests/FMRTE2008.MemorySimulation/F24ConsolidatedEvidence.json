@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "kind": "f24-consolidated-offline-ci-provenance",
+  "sourceRepository": "marcosvilhena87/FM2008.mapping",
+  "sourceCommit": "df5be0493a1ac7be57208ff0e91c2d7193dfec73",
+  "sources": [
+    {
+      "stage": "F21",
+      "path": "tests/FMRTE2008.MemorySimulation/F21B03Evidence.json",
+      "sha256": "6e4f40eca3e437cbfd91f0191c372b6cfe4f579d93ed27d6e1aca5ea719748d8",
+      "report": "F21B03Validation.json",
+      "negativeCases": 29,
+      "hashField": "manifestSha256",
+      "countField": "negativeMutationsRejected"
+    },
+    {
+      "stage": "F22",
+      "path": "tests/FMRTE2008.MemorySimulation/F22ApprovalGates.json",
+      "sha256": "cc6295e8696293c2c80bc968008b0cc340aeb741a63aeec185bbeede0f8530f8",
+      "report": "F22ApprovalGateValidation.json",
+      "negativeCases": 32,
+      "hashField": "matrixSha256",
+      "countField": "rejectedMutations"
+    },
+    {
+      "stage": "F23.1",
+      "path": "tests/FMRTE2008.MemorySimulation/F23B03ProvenanceGaps.json",
+      "sha256": "e2221552209889f5575716c51b40d8e92e79145d95cbd4638970f70670569b75",
+      "report": "F23B03ProvenanceValidation.json",
+      "negativeCases": 22,
+      "hashField": "manifestSha256",
+      "countField": "negativeMutationsRejected"
+    },
+    {
+      "stage": "F23.2",
+      "path": "tests/FMRTE2008.MemorySimulation/F23ResidualRisks.json",
+      "sha256": "32c125bec19d3bd1c15327c32be6b1f9fa530c7735464cf5cdb6278847cecec6",
+      "report": "F23ResidualRiskValidation.json",
+      "negativeCases": 25,
+      "hashField": "registrySha256",
+      "countField": "negativeCasesRejected"
+    },
+    {
+      "stage": "F23.3",
+      "path": "tests/FMRTE2008.MemorySimulation/F23HumanDecisionNotMade.json",
+      "sha256": "a7823a5a4a2833afa9aafbd7b71bdabecbbe31a7bb9390e97472fab0992dce7c",
+      "report": "F23HumanDecisionValidation.json",
+      "negativeCases": 28,
+      "hashField": "decisionSha256",
+      "countField": "rejectedMutations"
+    },
+    {
+      "stage": "F23.4",
+      "path": "tests/FMRTE2008.MemorySimulation/F23ConsolidatedEvidence.json",
+      "sha256": "f9d5c75a90c27660cfe0591076cc3ff00fe0181ac355608b0660e1b8d29e4882",
+      "report": "F23ConsolidatedValidation.json",
+      "negativeCases": 31,
+      "hashField": "manifestSha256",
+      "countField": "negativeCasesRejected"
+    },
+    {
+      "stage": "F24.1",
+      "path": "tests/FMRTE2008.MemorySimulation/F24B03Sufficiency.json",
+      "sha256": "8cd9163dc5f9227981e718d35c654481e8a7b867f33079783f96416474981da8",
+      "report": "F24B03SufficiencyValidation.json",
+      "negativeCases": 25,
+      "hashField": "manifestSha256",
+      "countField": "negativeCasesRejected"
+    },
+    {
+      "stage": "F24.2",
+      "path": "tests/FMRTE2008.MemorySimulation/F24DocumentaryEligibility.json",
+      "sha256": "6b69b38a34085851a2ca77f75839397e9a916edec0c6286e242d00b854a01c65",
+      "report": "F24DocumentaryEligibilityValidation.json",
+      "negativeCases": 28,
+      "hashField": "manifestSha256",
+      "countField": "negativeCasesRejected"
+    },
+    {
+      "stage": "F24.3",
+      "path": "tests/FMRTE2008.MemorySimulation/F24HumanReviewNotMade.json",
+      "sha256": "22a2aff037e3f20c7f485766086b10f4afa6a71b4ea410b6ac99187b39463545",
+      "report": "F24HumanReviewValidation.json",
+      "negativeCases": 32,
+      "hashField": "manifestSha256",
+      "countField": "negativeCasesRejected"
+    }
+  ],
+  "traceability": {
+    "observations": [
+      "R01",
+      "R02",
+      "R03",
+      "R04",
+      "R05",
+      "R06",
+      "R07"
+    ],
+    "gates": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "criteria": [
+      "A01",
+      "A02",
+      "A03",
+      "A04",
+      "A05",
+      "A06",
+      "A07",
+      "A08",
+      "A09",
+      "A10",
+      "A11",
+      "A12"
+    ],
+    "risks": [
+      "RA-01",
+      "RA-02",
+      "RA-03",
+      "RA-04",
+      "RA-05",
+      "RA-06",
+      "RA-07",
+      "RA-08"
+    ],
+    "provenanceCriteria": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P05"
+    ]
+  },
+  "decision": {
+    "approved": false,
+    "operational": false,
+    "approvedPlayerMaps": 0,
+    "acceptedRisks": 0,
+    "b03": "PENDING-DECLARED",
+    "gateA12": "GATE-BLOQUEADO",
+    "documentaryEligibility": "NOT_ELIGIBLE",
+    "sufficiency": "INSUFFICIENT_PRESERVED",
+    "humanDecision": "NOT_MADE",
+    "humanReviewOccurred": false,
+    "ciIsHumanApproval": false,
+    "prReviewIsHumanApproval": false
+  },
+  "provenance": {
+    "historicalAttestation": false,
+    "humanReviewer": null,
+    "humanReviewDate": null,
+    "humanAuthority": null,
+    "observationSourceIndependent": false
+  }
+}

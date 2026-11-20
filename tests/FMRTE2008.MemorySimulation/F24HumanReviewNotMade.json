@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "kind": "f24-human-review-protocol-not-made-offline",
+  "source": {
+    "f23HumanPath": "tests/FMRTE2008.MemorySimulation/F23HumanDecisionNotMade.json",
+    "f23HumanSha256": "a7823a5a4a2833afa9aafbd7b71bdabecbbe31a7bb9390e97472fab0992dce7c",
+    "f24EligibilityPath": "tests/FMRTE2008.MemorySimulation/F24DocumentaryEligibility.json",
+    "f24EligibilitySha256": "6b69b38a34085851a2ca77f75839397e9a916edec0c6286e242d00b854a01c65",
+    "f24SufficiencyPath": "tests/FMRTE2008.MemorySimulation/F24B03Sufficiency.json",
+    "f24SufficiencySha256": "8cd9163dc5f9227981e718d35c654481e8a7b867f33079783f96416474981da8",
+    "f23RisksPath": "tests/FMRTE2008.MemorySimulation/F23ResidualRisks.json",
+    "f23RisksSha256": "32c125bec19d3bd1c15327c32be6b1f9fa530c7735464cf5cdb6278847cecec6"
+  },
+  "review": {
+    "reviewer": null,
+    "reviewedAt": null,
+    "authorityReference": null,
+    "independenceDeclaration": null,
+    "conflictOfInterestAssessment": null,
+    "scopeReference": null,
+    "evidenceVersionReference": null,
+    "decisionReference": null,
+    "decision": "NOT_MADE",
+    "reviewOccurred": false
+  },
+  "evidence": {
+    "observationIds": [
+      "R01",
+      "R02",
+      "R03",
+      "R04",
+      "R05",
+      "R06",
+      "R07"
+    ],
+    "requiredCriteria": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P05"
+    ],
+    "documentaryEligibility": "NOT_ELIGIBLE",
+    "sufficiency": "INSUFFICIENT_PRESERVED",
+    "historicalProvenanceAttested": false
+  },
+  "gate": {
+    "gateId": "G5",
+    "criterionId": "A12",
+    "status": "GATE-BLOQUEADO",
+    "humanSignoff": false
+  },
+  "ciSeparation": {
+    "ciSuccessIsHumanApproval": false,
+    "prReviewIsHumanApproval": false,
+    "readyForReviewIsHumanApproval": false,
+    "mergeIsHumanApproval": false,
+    "githubActorIsHumanReviewer": false,
+    "ciTimestampIsReviewDate": false
+  },
+  "riskDecisions": [
+    {
+      "riskId": "RA-01",
+      "accepted": false,
+      "acceptanceReference": null,
+      "humanAssessmentReference": null
+    },
+    {
+      "riskId": "RA-02",
+      "accepted": false,
+      "acceptanceReference": null,
+      "humanAssessmentReference": null
+    },
+    {
+      "riskId": "RA-03",
+      "accepted": false,
+      "acceptanceReference": null,
+      "humanAssessmentReference": null
+    },
+    {
+      "riskId": "RA-04",
+      "accepted": false,
+      "acceptanceReference": null,
+      "humanAssessmentReference": null
+    },
+    {
+      "riskId": "RA-05",
+      "accepted": false,
+      "acceptanceReference": null,
+      "humanAssessmentReference": null
+    },
+    {
+      "riskId": "RA-06",
+      "accepted": false,
+      "acceptanceReference": null,
+      "humanAssessmentReference": null
+    },
+    {
+      "riskId": "RA-07",
+      "accepted": false,
+      "acceptanceReference": null,
+      "humanAssessmentReference": null
+    },
+    {
+      "riskId": "RA-08",
+      "accepted": false,
+      "acceptanceReference": null,
+      "humanAssessmentReference": null
+    }
+  ],
+  "outcome": {
+    "approved": false,
+    "operational": false,
+    "approvedPlayerMaps": 0,
+    "acceptedRisks": 0,
+    "b03": "PENDING-DECLARED",
+    "humanApproval": false
+  }
+}
