@@ -1,0 +1,253 @@
+<Language className="FM_Editor.Language"><Name>English</Name><Strings className="System.Collections.SortedList"><DictionaryEntry key="0001" className="System.String">Detected Version</DictionaryEntry><DictionaryEntry key="0002" className="System.String">It’s not supported</DictionaryEntry><DictionaryEntry key="0003" className="System.String">Loading...</DictionaryEntry><DictionaryEntry key="0004" className="System.String">Game Version detected: </DictionaryEntry><DictionaryEntry key="0005" className="System.String">Football Manager 2008 its not running, start the game and try again..</DictionaryEntry><DictionaryEntry key="0006" className="System.String">Selection error</DictionaryEntry><DictionaryEntry key="0007" className="System.String">First press the “Load Game” button</DictionaryEntry><DictionaryEntry key="0008" className="System.String">Its not possible</DictionaryEntry><DictionaryEntry key="0009" className="System.String">Nothing found</DictionaryEntry><DictionaryEntry key="0010" className="System.String">Editor Options</DictionaryEntry><DictionaryEntry key="0013" className="System.String">&lt;No Nickname&gt;</DictionaryEntry><DictionaryEntry key="0014" className="System.String">Player Information</DictionaryEntry><DictionaryEntry key="0016" className="System.String">GK attributes and Positions</DictionaryEntry><DictionaryEntry key="0017" className="System.String">Preferred Moves</DictionaryEntry><DictionaryEntry key="0018" className="System.String">Contract</DictionaryEntry><DictionaryEntry key="0019" className="System.String">Relations</DictionaryEntry><DictionaryEntry key="0020" className="System.String">Nation Information</DictionaryEntry><DictionaryEntry key="0021" className="System.String">Club Information</DictionaryEntry><DictionaryEntry key="0022" className="System.String">Profissional</DictionaryEntry><DictionaryEntry key="0023" className="System.String">Semi-Profissional</DictionaryEntry><DictionaryEntry key="0024" className="System.String">Amateur</DictionaryEntry><DictionaryEntry key="0025" className="System.String">Developed</DictionaryEntry><DictionaryEntry key="0026" className="System.String">Developing</DictionaryEntry><DictionaryEntry key="0027" className="System.String">Third World</DictionaryEntry><DictionaryEntry key="0028" className="System.String">Non UE</DictionaryEntry><DictionaryEntry key="0029" className="System.String">EU Memeber</DictionaryEntry><DictionaryEntry key="0030" className="System.String">Very Important</DictionaryEntry><DictionaryEntry key="0031" className="System.String">Important</DictionaryEntry><DictionaryEntry key="0032" className="System.String">Useless</DictionaryEntry><DictionaryEntry key="0037" className="System.String">Found:</DictionaryEntry><DictionaryEntry key="0033" className="System.String">Completly useless</DictionaryEntry><DictionaryEntry key="0034" className="System.String">Type the name or the id of the club/player/nation that you want to search for</DictionaryEntry><DictionaryEntry key="1001" className="System.String">This field currency is in:</DictionaryEntry><DictionaryEntry key="1002" className="System.String">This field range is: </DictionaryEntry><DictionaryEntry key="2000" className="System.String">Wants to move to a bigger club</DictionaryEntry><DictionaryEntry key="2001" className="System.String">Wants improved contract</DictionaryEntry><DictionaryEntry key="2002" className="System.String">Expects to play in first team</DictionaryEntry><DictionaryEntry key="2003" className="System.String">Unhappy with his manager</DictionaryEntry><DictionaryEntry key="2004" className="System.String">Wants first team football</DictionaryEntry><DictionaryEntry key="2005" className="System.String">Problems settling in country</DictionaryEntry><DictionaryEntry key="2006" className="System.String">Personal reasons</DictionaryEntry><DictionaryEntry key="2007" className="System.String">Unhappy transfer bid rejected</DictionaryEntry><DictionaryEntry key="2008" className="System.String">Wants a new challenge</DictionaryEntry><DictionaryEntry key="2009" className="System.String">Treated unfairly</DictionaryEntry><DictionaryEntry key="2010" className="System.String">Treated teammate unfairly</DictionaryEntry><DictionaryEntry key="2011" className="System.String">Dislikes team mate</DictionaryEntry><DictionaryEntry key="2012" className="System.String">Dislikes assistant manager</DictionaryEntry><DictionaryEntry key="2013" className="System.String">Dislikes manager</DictionaryEntry><DictionaryEntry key="2014" className="System.String">Unhappy with role</DictionaryEntry><DictionaryEntry key="2015" className="System.String">Unhappy with training</DictionaryEntry><DictionaryEntry key="2016" className="System.String">Refused transfer listing</DictionaryEntry><DictionaryEntry key="2017" className="System.String">Homesick</DictionaryEntry><DictionaryEntry key="2018" className="System.String">Media pressure</DictionaryEntry><DictionaryEntry key="2019" className="System.String">No manager support</DictionaryEntry><DictionaryEntry key="2020" className="System.String">Jaded</DictionaryEntry><DictionaryEntry key="2021" className="System.String">Teammates remarks</DictionaryEntry><DictionaryEntry key="2022" className="System.String">Unhappy at being subbed</DictionaryEntry><DictionaryEntry key="2023" className="System.String">Unhappy about club finances</DictionaryEntry><DictionaryEntry key="2024" className="System.String">Value too high</DictionaryEntry><DictionaryEntry key="2025" className="System.String">Victimized by ref</DictionaryEntry><DictionaryEntry key="2026" className="System.String">Wants to match teammates pay</DictionaryEntry><DictionaryEntry key="2027" className="System.String">Manager obstructing move</DictionaryEntry><DictionaryEntry key="2028" className="System.String">Worried by lack of discipline</DictionaryEntry><DictionaryEntry key="2029" className="System.String">Worried by lack of club harmony</DictionaryEntry><DictionaryEntry key="2030" className="System.String">Thinks club is under achieving</DictionaryEntry><DictionaryEntry key="2031" className="System.String">Considering bosman</DictionaryEntry><DictionaryEntry key="2032" className="System.String">Club signed rival player</DictionaryEntry><DictionaryEntry key="2033" className="System.String">Rumors of being replaced</DictionaryEntry><DictionaryEntry key="2034" className="System.String">Too many rival players</DictionaryEntry><DictionaryEntry key="2035" className="System.String">Manager listening to player</DictionaryEntry><DictionaryEntry key="2036" className="System.String">No competition for places</DictionaryEntry><DictionaryEntry key="2037" className="System.String">Unhappy at sale of star player</DictionaryEntry><DictionaryEntry key="2038" className="System.String">Unhappy at sale of youngster</DictionaryEntry><DictionaryEntry key="2039" className="System.String">Unsettled by transfer speculation</DictionaryEntry><DictionaryEntry key="2040" className="System.String">Can’t settle in area</DictionaryEntry><DictionaryEntry key="2041" className="System.String">Unhappy refused improved contract</DictionaryEntry><DictionaryEntry key="2042" className="System.String">Unhappy wants to discuss improved contract immediatly</DictionaryEntry><DictionaryEntry key="2043" className="System.String">Unhappy refused move to bigger club</DictionaryEntry><DictionaryEntry key="2044" className="System.String">Unhappy wants to move to bigger club immediatly</DictionaryEntry><DictionaryEntry key="2045" className="System.String">Unhappy refused move to another club</DictionaryEntry><DictionaryEntry key="2046" className="System.String">Unhappy wants to move to another club immediatly</DictionaryEntry><DictionaryEntry key="2047" className="System.String">Unhappy refused chance of first team opportunities</DictionaryEntry><DictionaryEntry key="2048" className="System.String">Unhappy wants first team opportunities now</DictionaryEntry><DictionaryEntry key="2049" className="System.String">No confidence in manager</DictionaryEntry><DictionaryEntry key="2050" className="System.String">Worried club may be forced to sell players</DictionaryEntry><DictionaryEntry key="2051" className="System.String">Unhappy at withdrawal from international squad</DictionaryEntry><DictionaryEntry key="2052" className="System.String">Being forced out of club</DictionaryEntry><DictionaryEntry key="2053" className="System.String">Unhappy at offer of contract termination</DictionaryEntry><DictionaryEntry key="2054" className="System.String">Feels manager doesn’t rate him</DictionaryEntry><DictionaryEntry key="2055" className="System.String">Wants clarification on his squad status</DictionaryEntry><DictionaryEntry key="2056" className="System.String">Believes he is past it</DictionaryEntry><DictionaryEntry key="2057" className="System.String">Media pressure expectation</DictionaryEntry><DictionaryEntry key="2058" className="System.String">Media pressure criticism</DictionaryEntry><DictionaryEntry key="2059" className="System.String">Under valued by manager</DictionaryEntry><DictionaryEntry key="2060" className="System.String">Being forced out of club administrators</DictionaryEntry><DictionaryEntry key="2061" className="System.String">Playing in weak position</DictionaryEntry><DictionaryEntry key="2062" className="System.String">Unhappy told he wont play for club</DictionaryEntry><DictionaryEntry key="2063" className="System.String">Doesn’t want to leave club</DictionaryEntry><DictionaryEntry key="3001" className="System.String">Players may move freely</DictionaryEntry><DictionaryEntry key="3002" className="System.String">Players may go on loan</DictionaryEntry><DictionaryEntry key="3003" className="System.String">Main club has first option to buy</DictionaryEntry><DictionaryEntry key="3004" className="System.String">Play friendlies</DictionaryEntry><DictionaryEntry key="3005" className="System.String">Annual payment fee</DictionaryEntry><DictionaryEntry key="3006" className="System.String">Help feeder club with a one-off upgrade to their facilities</DictionaryEntry><DictionaryEntry key="3007" className="System.String">The presence of main club, in the feeder club country is a majos benefit for all merchandising sales</DictionaryEntry><DictionaryEntry key="3008" className="System.String">A local partnership in which players are loaned</DictionaryEntry><DictionaryEntry key="3009" className="System.String">A national partnership in which players are loaned</DictionaryEntry><DictionaryEntry key="3010" className="System.String">The parent team has first option on the feeder club's players</DictionaryEntry><DictionaryEntry key="3011" className="System.String">To avoid work permit regulations.</DictionaryEntry><DictionaryEntry key="3012" className="System.String">Financial benefits for both teams</DictionaryEntry><DictionaryEntry key="3013" className="System.String">An international partnership in witch players are loaned</DictionaryEntry><DictionaryEntry key="3014" className="System.String">Unknown, value =</DictionaryEntry><DictionaryEntry key="3015" className="System.String">Enter the club name for search</DictionaryEntry><DictionaryEntry key="3016" className="System.String">Search for a new Parent Club</DictionaryEntry><DictionaryEntry key="3017" className="System.String">Search for a new Feeder Club</DictionaryEntry><DictionaryEntry key="btnClearList" className="System.String">&amp;Clear</DictionaryEntry><DictionaryEntry key="btnClearUnhappy" className="System.String">&amp;Clear</DictionaryEntry><DictionaryEntry key="btnLoad" className="System.String">&amp;Load Game</DictionaryEntry><DictionaryEntry key="btnOpCancel" className="System.String">&amp;Cancel</DictionaryEntry><DictionaryEntry key="btnOtpOk" className="System.String">&amp;Ok</DictionaryEntry><DictionaryEntry key="btnPlayerAverage" className="System.String">Average</DictionaryEntry><DictionaryEntry key="btnPlayerDecOne" className="System.String">-1</DictionaryEntry><DictionaryEntry key="btnPlayerIncOne" className="System.String">+1</DictionaryEntry><DictionaryEntry key="btnPlayerInter" className="System.String">International</DictionaryEntry><DictionaryEntry key="btnPlayerLegend" className="System.String">Legend</DictionaryEntry><DictionaryEntry key="btnPlayerPoor" className="System.String">Poor</DictionaryEntry><DictionaryEntry key="btnPlayerPro" className="System.String">Pro</DictionaryEntry><DictionaryEntry key="btnPlayerVeryPoor" className="System.String">Very Poor</DictionaryEntry><DictionaryEntry key="btnPlayerWClass" className="System.String">World Class</DictionaryEntry><DictionaryEntry key="btnPositionAC" className="System.String">FC</DictionaryEntry><DictionaryEntry key="btnPositionAlaD" className="System.String">WBR</DictionaryEntry><DictionaryEntry key="btnPositionAlaE" className="System.String">WBL</DictionaryEntry><DictionaryEntry key="btnPositionDC" className="System.String">DC</DictionaryEntry><DictionaryEntry key="btnPositionDD" className="System.String">DR</DictionaryEntry><DictionaryEntry key="btnPositionDE" className="System.String">DL</DictionaryEntry><DictionaryEntry key="btnPositionGK" className="System.String">Goal Keeper</DictionaryEntry><DictionaryEntry key="btnPositionMAC" className="System.String">AMC</DictionaryEntry><DictionaryEntry key="btnPositionMAD" className="System.String">AMR</DictionaryEntry><DictionaryEntry key="btnPositionMAE" className="System.String">AML</DictionaryEntry><DictionaryEntry key="btnPositionMC" className="System.String">MC</DictionaryEntry><DictionaryEntry key="btnPositionMD" className="System.String">MR</DictionaryEntry><DictionaryEntry key="btnPositionMDC" className="System.String">DMC</DictionaryEntry><DictionaryEntry key="btnPositionME" className="System.String">ML</DictionaryEntry><DictionaryEntry key="btnPositionSw" className="System.String">SW</DictionaryEntry><DictionaryEntry key="btnSave" className="System.String">&amp;Save</DictionaryEntry><DictionaryEntry key="btnSetAllUnhappy" className="System.String">&amp;Select All</DictionaryEntry><DictionaryEntry key="btnView" className="System.String">Search</DictionaryEntry><DictionaryEntry key="l101" className="System.String">PlayerID:</DictionaryEntry><DictionaryEntry key="l102" className="System.String">Born:</DictionaryEntry><DictionaryEntry key="l103" className="System.String">Int Caps:</DictionaryEntry><DictionaryEntry key="l104" className="System.String">Int Goals:</DictionaryEntry><DictionaryEntry key="l105" className="System.String">Home Reputation:</DictionaryEntry><DictionaryEntry key="l106" className="System.String">Current Reputation:</DictionaryEntry><DictionaryEntry key="l107" className="System.String">World Reputation:</DictionaryEntry><DictionaryEntry key="l108" className="System.String">Current Ability:</DictionaryEntry><DictionaryEntry key="l109" className="System.String">Potential Ability:</DictionaryEntry><DictionaryEntry key="l110" className="System.String">Weight:</DictionaryEntry><DictionaryEntry key="l111" className="System.String">Height:</DictionaryEntry><DictionaryEntry key="l112" className="System.String">Player value:</DictionaryEntry><DictionaryEntry key="l113" className="System.String">Ask value:</DictionaryEntry><DictionaryEntry key="l114" className="System.String">Morale:</DictionaryEntry><DictionaryEntry key="l115" className="System.String">Match Exercise</DictionaryEntry><DictionaryEntry key="l116" className="System.String">Jadeness</DictionaryEntry><DictionaryEntry key="l117" className="System.String">Sub21 Caps:</DictionaryEntry><DictionaryEntry key="l118" className="System.String">Sub21 Goals:</DictionaryEntry><DictionaryEntry key="l119" className="System.String">Fitness:</DictionaryEntry><DictionaryEntry key="l120" className="System.String">First Name:</DictionaryEntry><DictionaryEntry key="l121" className="System.String">Last Name:</DictionaryEntry><DictionaryEntry key="l122" className="System.String">Nickname:</DictionaryEntry><DictionaryEntry key="l123" className="System.String">Nation ID:</DictionaryEntry><DictionaryEntry key="l124" className="System.String">Adaptability:</DictionaryEntry><DictionaryEntry key="l125" className="System.String">Ambition:</DictionaryEntry><DictionaryEntry key="l126" className="System.String">Loyalty:</DictionaryEntry><DictionaryEntry key="l127" className="System.String">Pressure:</DictionaryEntry><DictionaryEntry key="l128" className="System.String">Professional:</DictionaryEntry><DictionaryEntry key="l129" className="System.String">Sportmanship:</DictionaryEntry><DictionaryEntry key="l130" className="System.String">Temperament:</DictionaryEntry><DictionaryEntry key="l131" className="System.String">Controversy:</DictionaryEntry><DictionaryEntry key="l201" className="System.String">Wages:</DictionaryEntry><DictionaryEntry key="l202" className="System.String">Club:</DictionaryEntry><DictionaryEntry key="l203" className="System.String">Contract Started:</DictionaryEntry><DictionaryEntry key="l204" className="System.String">Contract Ends:</DictionaryEntry><DictionaryEntry key="l205" className="System.String">Team Status:</DictionaryEntry><DictionaryEntry key="l206" className="System.String">Transf. Status:</DictionaryEntry><DictionaryEntry key="l207" className="System.String">Loan Status.:</DictionaryEntry><DictionaryEntry key="l208" className="System.String">Unhappy:</DictionaryEntry><DictionaryEntry key="l209" className="System.String">Happiness:</DictionaryEntry><DictionaryEntry key="l210" className="System.String">Squad Number:</DictionaryEntry><DictionaryEntry key="l211" className="System.String">Apears Bonus:</DictionaryEntry><DictionaryEntry key="l212" className="System.String">Goal Bonus:</DictionaryEntry><DictionaryEntry key="l213" className="System.String">Clean Sheet Bonus:</DictionaryEntry><DictionaryEntry key="l214" className="System.String">Club:</DictionaryEntry><DictionaryEntry key="l215" className="System.String">Wages:</DictionaryEntry><DictionaryEntry key="l216" className="System.String">Loan Started:</DictionaryEntry><DictionaryEntry key="l217" className="System.String">Loan Ends:</DictionaryEntry><DictionaryEntry key="l218" className="System.String">Agreed Price:</DictionaryEntry><DictionaryEntry key="l301" className="System.String">Nation:</DictionaryEntry><DictionaryEntry key="l302" className="System.String">Ranking FIFA:</DictionaryEntry><DictionaryEntry key="l303" className="System.String">Ranking Points:</DictionaryEntry><DictionaryEntry key="l304" className="System.String">Stadium:</DictionaryEntry><DictionaryEntry key="l305" className="System.String">Economic Factor:</DictionaryEntry><DictionaryEntry key="l306" className="System.String">Group Member:</DictionaryEntry><DictionaryEntry key="l307" className="System.String">Importance:</DictionaryEntry><DictionaryEntry key="l308" className="System.String">League Standard:</DictionaryEntry><DictionaryEntry key="l309" className="System.String">Development:</DictionaryEntry><DictionaryEntry key="l310" className="System.String">Reputation:</DictionaryEntry><DictionaryEntry key="l401" className="System.String">Language:</DictionaryEntry><DictionaryEntry key="l402" className="System.String">Currency:</DictionaryEntry><DictionaryEntry key="l501" className="System.String">Last division:</DictionaryEntry><DictionaryEntry key="l502" className="System.String">Last Position:</DictionaryEntry><DictionaryEntry key="l503" className="System.String">Match day:</DictionaryEntry><DictionaryEntry key="l504" className="System.String">Prof. Status:</DictionaryEntry><DictionaryEntry key="l505" className="System.String">Reputation:</DictionaryEntry><DictionaryEntry key="l506" className="System.String">Facilities:</DictionaryEntry><DictionaryEntry key="l507" className="System.String">Youth Setup:</DictionaryEntry><DictionaryEntry key="l508" className="System.String">Youth Academy:</DictionaryEntry><DictionaryEntry key="l509" className="System.String">Morale:</DictionaryEntry><DictionaryEntry key="l510" className="System.String">Average Attend.:</DictionaryEntry><DictionaryEntry key="l511" className="System.String">Minimum Atted.:</DictionaryEntry><DictionaryEntry key="l512" className="System.String">Maximum Atted.:</DictionaryEntry><DictionaryEntry key="l513" className="System.String">Cash:</DictionaryEntry><DictionaryEntry key="l514" className="System.String">Transfer Budget:</DictionaryEntry><DictionaryEntry key="l515" className="System.String">Budget Remain:</DictionaryEntry><DictionaryEntry key="l516" className="System.String">Avaiable(%):</DictionaryEntry><DictionaryEntry key="label10" className="System.String">Flair:</DictionaryEntry><DictionaryEntry key="label100" className="System.String">Aerial Ability:</DictionaryEntry><DictionaryEntry key="label101" className="System.String">Cmd. of Area:</DictionaryEntry><DictionaryEntry key="label102" className="System.String">Communication:</DictionaryEntry><DictionaryEntry key="label11" className="System.String">Heading:</DictionaryEntry><DictionaryEntry key="label12" className="System.String">Finishing:</DictionaryEntry><DictionaryEntry key="label13" className="System.String">Dribbling</DictionaryEntry><DictionaryEntry key="label14" className="System.String">Crossing:</DictionaryEntry><DictionaryEntry key="label15" className="System.String">Off the ball:</DictionaryEntry><DictionaryEntry key="label16" className="System.String">Consistency:</DictionaryEntry><DictionaryEntry key="label17" className="System.String">Penalty:</DictionaryEntry><DictionaryEntry key="label18" className="System.String">Corner:</DictionaryEntry><DictionaryEntry key="label19" className="System.String">Long Shots:</DictionaryEntry><DictionaryEntry key="label20" className="System.String">Tackling:</DictionaryEntry><DictionaryEntry key="label21" className="System.String">First Touch:</DictionaryEntry><DictionaryEntry key="label22" className="System.String">Technique:</DictionaryEntry><DictionaryEntry key="label23" className="System.String">Bravery:</DictionaryEntry><DictionaryEntry key="label24" className="System.String">Anticipation:</DictionaryEntry><DictionaryEntry key="label25" className="System.String">Long Throws:</DictionaryEntry><DictionaryEntry key="label26" className="System.String">Decision:</DictionaryEntry><DictionaryEntry key="label27" className="System.String">Set Pieces:</DictionaryEntry><DictionaryEntry key="label28" className="System.String">Positioning:</DictionaryEntry><DictionaryEntry key="label29" className="System.String">Passing:</DictionaryEntry><DictionaryEntry key="label3" className="System.String">Creativity:</DictionaryEntry><DictionaryEntry key="label30" className="System.String">Marking:</DictionaryEntry><DictionaryEntry key="label31" className="System.String">Team Work:</DictionaryEntry><DictionaryEntry key="label32" className="System.String">Work Rate:</DictionaryEntry><DictionaryEntry key="label4" className="System.String">Composure:</DictionaryEntry><DictionaryEntry key="label47" className="System.String">Determination:</DictionaryEntry><DictionaryEntry key="label48" className="System.String">Versatility:</DictionaryEntry><DictionaryEntry key="label49" className="System.String">Acceleration:</DictionaryEntry><DictionaryEntry key="label5" className="System.String">Concentration:</DictionaryEntry><DictionaryEntry key="label50" className="System.String">Wing Back Left:</DictionaryEntry><DictionaryEntry key="label51" className="System.String">Wing Back Right:</DictionaryEntry><DictionaryEntry key="label52" className="System.String">Balance:</DictionaryEntry><DictionaryEntry key="label53" className="System.String">Injury Prone:</DictionaryEntry><DictionaryEntry key="label54" className="System.String">Left Defender:</DictionaryEntry><DictionaryEntry key="label55" className="System.String">Midfielder Cen.:</DictionaryEntry><DictionaryEntry key="label56" className="System.String">Midfielder Right:</DictionaryEntry><DictionaryEntry key="label57" className="System.String">Attack. Mid Cent:</DictionaryEntry><DictionaryEntry key="label58" className="System.String">Left foot:</DictionaryEntry><DictionaryEntry key="label59" className="System.String">Agility:</DictionaryEntry><DictionaryEntry key="label6" className="System.String">Aggression:</DictionaryEntry><DictionaryEntry key="label60" className="System.String">Natural fitness:</DictionaryEntry><DictionaryEntry key="label61" className="System.String">Jumping:</DictionaryEntry><DictionaryEntry key="label62" className="System.String">Attack. Mid Right:</DictionaryEntry><DictionaryEntry key="label63" className="System.String">Right foot:</DictionaryEntry><DictionaryEntry key="label64" className="System.String">Strength:</DictionaryEntry><DictionaryEntry key="label65" className="System.String">Stamia:</DictionaryEntry><DictionaryEntry key="label66" className="System.String">Pace:</DictionaryEntry><DictionaryEntry key="label67" className="System.String">Attack. Mid Left:</DictionaryEntry><DictionaryEntry key="label68" className="System.String">Midfielder Left:</DictionaryEntry><DictionaryEntry key="label69" className="System.String">Attack. Mid Cent.:</DictionaryEntry><DictionaryEntry key="label7" className="System.String">Imp. Match:</DictionaryEntry><DictionaryEntry key="label70" className="System.String">Center Defender:</DictionaryEntry><DictionaryEntry key="label71" className="System.String">Right Defender:</DictionaryEntry><DictionaryEntry key="label72" className="System.String">Def. Midfielder:</DictionaryEntry><DictionaryEntry key="label73" className="System.String">GoalKeeper:</DictionaryEntry><DictionaryEntry key="label74" className="System.String">Attcking Mid.:</DictionaryEntry><DictionaryEntry key="label75" className="System.String">Attacker:</DictionaryEntry><DictionaryEntry key="label76" className="System.String">Wage Used:</DictionaryEntry><DictionaryEntry key="label77" className="System.String">Wage Budget:</DictionaryEntry><DictionaryEntry key="label8" className="System.String">Dirtiness:</DictionaryEntry><DictionaryEntry key="label80" className="System.String">Right Side:</DictionaryEntry><DictionaryEntry key="label81" className="System.String">Free Role:</DictionaryEntry><DictionaryEntry key="label82" className="System.String">Wing Back:</DictionaryEntry><DictionaryEntry key="label83" className="System.String">Midfielder:</DictionaryEntry><DictionaryEntry key="label84" className="System.String">Center Side:</DictionaryEntry><DictionaryEntry key="label85" className="System.String">Left Side:</DictionaryEntry><DictionaryEntry key="label86" className="System.String">Sweeper:</DictionaryEntry><DictionaryEntry key="label87" className="System.String">Defender:</DictionaryEntry><DictionaryEntry key="label88" className="System.String">Defender Mid.:</DictionaryEntry><DictionaryEntry key="label89" className="System.String">Handling:</DictionaryEntry><DictionaryEntry key="label9" className="System.String">Influence:</DictionaryEntry><DictionaryEntry key="label90" className="System.String">Throwing:</DictionaryEntry><DictionaryEntry key="label91" className="System.String">Eccentricity:</DictionaryEntry><DictionaryEntry key="label94" className="System.String">Reflexes:</DictionaryEntry><DictionaryEntry key="label95" className="System.String">Tend. to Punch:</DictionaryEntry><DictionaryEntry key="label96" className="System.String">Rushing Out:</DictionaryEntry><DictionaryEntry key="label97" className="System.String">Kicking:</DictionaryEntry><DictionaryEntry key="label99" className="System.String">One On Ones:</DictionaryEntry><DictionaryEntry key="lblAffMainBenefit" className="System.String">Main benefit:</DictionaryEntry><DictionaryEntry key="lblAffStartDate" className="System.String">Contract started:</DictionaryEntry><DictionaryEntry key="lblAffType" className="System.String">Friendship Benefits:</DictionaryEntry><DictionaryEntry key="lblClubAffAnualPayment" className="System.String">Annual Payment fee:</DictionaryEntry><DictionaryEntry key="lblMainClub" className="System.String">Parent club:</DictionaryEntry><DictionaryEntry key="lblOtherClub" className="System.String">Feeder club:</DictionaryEntry><DictionaryEntry key="menuItemAbout" className="System.String">About</DictionaryEntry><DictionaryEntry key="menuItemOptions" className="System.String">Options</DictionaryEntry><DictionaryEntry key="reportABugToolStripMenuItem" className="System.String">Report a bug</DictionaryEntry><DictionaryEntry key="tabPage1" className="System.String">Player Information</DictionaryEntry><DictionaryEntry key="tabPage13" className="System.String">Nation Information</DictionaryEntry><DictionaryEntry key="tabPagNations" className="System.String">Nation</DictionaryEntry><DictionaryEntry key="tabPagPlayers" className="System.String">Player</DictionaryEntry><DictionaryEntry key="tabPagPlContract" className="System.String">Contract Details</DictionaryEntry>
+
+<DictionaryEntry key="tipBugReport" className="System.String">Bug Report</DictionaryEntry>
+<DictionaryEntry key="tipHomePage" className="System.String">FMRTE HomePage</DictionaryEntry>
+<DictionaryEntry key="tipHelp" className="System.String">Online FAQ</DictionaryEntry>
+<DictionaryEntry key="searchStarted" className="System.String">Searching...</DictionaryEntry>
+<DictionaryEntry key="searchFinished" className="System.String">Search complete</DictionaryEntry>
+<DictionaryEntry key="dataLoaded" className="System.String">Data loaded</DictionaryEntry>
+<DictionaryEntry key="searchNames" className="System.String">Change name of player</DictionaryEntry>
+<DictionaryEntry key="searchFirstName" className="System.String">Enter the name to search</DictionaryEntry>
+<DictionaryEntry key="grpStadium" className="System.String">Stadium</DictionaryEntry>
+<DictionaryEntry key="grpNationInfo" className="System.String">Information</DictionaryEntry>
+<DictionaryEntry key="menuCurrentPerson" className="System.String">Current Person</DictionaryEntry>
+
+<DictionaryEntry key="btnHealAll" className="System.String">Heal Team</DictionaryEntry>
+<DictionaryEntry key="btnInspireTeam" className="System.String">Inspire Team</DictionaryEntry>
+<DictionaryEntry key="btnListAll" className="System.String">List All</DictionaryEntry>
+<DictionaryEntry key="btnUnbanAll" className="System.String">Unban Team</DictionaryEntry>
+
+<DictionaryEntry key="lblStaffCoachTactical" className="System.String">Tactical</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachTechnical" className="System.String">Technical</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachMental" className="System.String">Mental</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachFitness" className="System.String">Fitness</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachDefending" className="System.String">Defending</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachAttacking" className="System.String">Attacking</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachTactics" className="System.String">Tactics</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachPhysio" className="System.String">Physio</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachMotivating" className="System.String">Motivating</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachManHandle" className="System.String">ManHandle</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachJudgingPA" className="System.String">JudgingPA</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachJudgingCA" className="System.String">JudgingCA</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachGoalkeepers" className="System.String">Goalkeepers</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachOutfield" className="System.String">Outfield</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachWidth" className="System.String">Width</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachTempo" className="System.String">Tempo</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachRotation" className="System.String">Rotation</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachTrainHard" className="System.String">TrainHard</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachFlexibility" className="System.String">Flexibility</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachFlamboyancy" className="System.String">Flamboyancy</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachDepth" className="System.String">Depth</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachUseOfSubs" className="System.String">UseOfSubs</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachPlaymaker" className="System.String">Playmaker</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachSittingBack" className="System.String">SittingBack</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachMindGames" className="System.String">MindGames</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachBuyingPlayer" className="System.String">BuyingPlayer</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachDetermination" className="System.String">Determination</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachYoungsters" className="System.String">Youngsters</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachResources" className="System.String">Resources</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachPressing" className="System.String">Pressing</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachPatience" className="System.String">Patience</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachOffside" className="System.String">Offside</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachMarking" className="System.String">Marking</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachInterference" className="System.String">Interference</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachFreeRoles" className="System.String">FreeRoles</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachDiscipline" className="System.String">Discipline</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachDirectness" className="System.String">Directness</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachTechnique" className="System.String">Technique</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachBusiness" className="System.String">Business</DictionaryEntry>
+<DictionaryEntry key="lblStaffCoachAttackTrend" className="System.String">AttackTrend</DictionaryEntry>
+
+<DictionaryEntry key="0011" className="System.String">--------- Players Founded: </DictionaryEntry>
+<DictionaryEntry key="0012" className="System.String">--------- Persons Founded: </DictionaryEntry>
+<DictionaryEntry key="0015" className="System.String">Player Attributes</DictionaryEntry>
+<DictionaryEntry key="0035" className="System.String">--------- Teams Founded: </DictionaryEntry>
+<DictionaryEntry key="lblStatus" className="System.String">Press the Load Game button</DictionaryEntry>
+<DictionaryEntry key="0100" className="System.String">Team Players</DictionaryEntry>
+<DictionaryEntry key="0101" className="System.String">League Standings</DictionaryEntry>
+<DictionaryEntry key="0102" className="System.String">years</DictionaryEntry>
+<DictionaryEntry key="0103" className="System.String">Coach Attributes</DictionaryEntry>
+<DictionaryEntry key="0104" className="System.String">Coaches search is complete</DictionaryEntry>
+<DictionaryEntry key="0105" className="System.String">Teams search is complete</DictionaryEntry>
+<DictionaryEntry key="0106" className="System.String">Players search is complete</DictionaryEntry>
+
+<DictionaryEntry key="8001" className="System.String">U21</DictionaryEntry>
+<DictionaryEntry key="8002" className="System.String">U23</DictionaryEntry>
+<DictionaryEntry key="8003" className="System.String">U20</DictionaryEntry>
+<DictionaryEntry key="8004" className="System.String">U19</DictionaryEntry>
+<DictionaryEntry key="8005" className="System.String">B</DictionaryEntry>
+<DictionaryEntry key="8006" className="System.String">C</DictionaryEntry>
+<DictionaryEntry key="8007" className="System.String">Unknown</DictionaryEntry>
+<DictionaryEntry key="8008" className="System.String">Name</DictionaryEntry>
+<DictionaryEntry key="8009" className="System.String">CA</DictionaryEntry>
+<DictionaryEntry key="8010" className="System.String">PA</DictionaryEntry>
+<DictionaryEntry key="8011" className="System.String">Nation</DictionaryEntry>
+<DictionaryEntry key="8012" className="System.String">Age</DictionaryEntry>
+<DictionaryEntry key="8013" className="System.String">Caps.</DictionaryEntry>
+<DictionaryEntry key="8014" className="System.String">Int G.</DictionaryEntry>
+<DictionaryEntry key="8015" className="System.String">S21 Caps</DictionaryEntry>
+<DictionaryEntry key="8016" className="System.String">S21 G.</DictionaryEntry>
+
+<DictionaryEntry key="8500" className="System.String">Pos</DictionaryEntry>
+<DictionaryEntry key="8501" className="System.String">Team</DictionaryEntry>
+<DictionaryEntry key="8502" className="System.String">G</DictionaryEntry>
+<DictionaryEntry key="8503" className="System.String">W</DictionaryEntry>
+<DictionaryEntry key="8504" className="System.String">D</DictionaryEntry>
+<DictionaryEntry key="8505" className="System.String">L</DictionaryEntry>
+<DictionaryEntry key="8506" className="System.String">GS</DictionaryEntry>
+<DictionaryEntry key="8507" className="System.String">GA</DictionaryEntry>
+<DictionaryEntry key="8508" className="System.String">Pts</DictionaryEntry>
+
+<DictionaryEntry key="9500" className="System.String">Capacity:</DictionaryEntry>
+<DictionaryEntry key="9501" className="System.String">Exp. Cap:</DictionaryEntry>
+<DictionaryEntry key="9502" className="System.String">Name:</DictionaryEntry>
+<DictionaryEntry key="9503" className="System.String">Seating:</DictionaryEntry>
+<DictionaryEntry key="9504" className="System.String">Used Cap:</DictionaryEntry>
+<DictionaryEntry key="9505" className="System.String">Pitch length:</DictionaryEntry>
+<DictionaryEntry key="9506" className="System.String">Pitch width:</DictionaryEntry>
+
+<DictionaryEntry key="9600" className="System.String">Listed</DictionaryEntry>
+<DictionaryEntry key="9601" className="System.String">None</DictionaryEntry>
+<DictionaryEntry key="9602" className="System.String">By request</DictionaryEntry>
+<DictionaryEntry key="9603" className="System.String">Not for sell</DictionaryEntry>
+<DictionaryEntry key="9604" className="System.String">Listed</DictionaryEntry>
+<DictionaryEntry key="9605" className="System.String">Not for loan</DictionaryEntry>
+<DictionaryEntry key="9606" className="System.String">Indispensable</DictionaryEntry>
+<DictionaryEntry key="9607" className="System.String">First Team</DictionaryEntry>
+<DictionaryEntry key="9608" className="System.String">Squad Rotation</DictionaryEntry>
+<DictionaryEntry key="9609" className="System.String">Backup</DictionaryEntry>
+<DictionaryEntry key="9610" className="System.String">Hot Prospect</DictionaryEntry>
+<DictionaryEntry key="9611" className="System.String">Decent young</DictionaryEntry>
+<DictionaryEntry key="9612" className="System.String">Not needed</DictionaryEntry>
+<DictionaryEntry key="9700" className="System.String">Is banned</DictionaryEntry>
+<DictionaryEntry key="9701" className="System.String">Is injured</DictionaryEntry>
+<DictionaryEntry key="saved" className="System.String">Changes saved</DictionaryEntry>
+
+<DictionaryEntry key="5017" className="System.String">Positions</DictionaryEntry>
+<DictionaryEntry key="5018" className="System.String">Value</DictionaryEntry>
+<DictionaryEntry key="5019" className="System.String">Ask Value</DictionaryEntry>
+<DictionaryEntry key="5020" className="System.String">Int Caps</DictionaryEntry>
+<DictionaryEntry key="5021" className="System.String">Int Goals</DictionaryEntry>
+<DictionaryEntry key="5022" className="System.String">U21 Caps</DictionaryEntry>
+<DictionaryEntry key="5023" className="System.String">U21 Goals</DictionaryEntry>
+<DictionaryEntry key="5024" className="System.String">Height</DictionaryEntry>
+<DictionaryEntry key="5025" className="System.String">Weight</DictionaryEntry>
+
+
+
+<DictionaryEntry key="6001" className="System.String">Person:</DictionaryEntry>
+<DictionaryEntry key="6002" className="System.String">Club:</DictionaryEntry>
+<DictionaryEntry key="6003" className="System.String">Nation:</DictionaryEntry>
+<DictionaryEntry key="6004" className="System.String">Favoured Person</DictionaryEntry>
+<DictionaryEntry key="6005" className="System.String">Disliked Person</DictionaryEntry>
+<DictionaryEntry key="6006" className="System.String">Favoured Club</DictionaryEntry>
+<DictionaryEntry key="6007" className="System.String">Disliked Club</DictionaryEntry>
+<DictionaryEntry key="6008" className="System.String">Favoured Country</DictionaryEntry>
+<DictionaryEntry key="6009" className="System.String">Favoured Team</DictionaryEntry>
+<DictionaryEntry key="6010" className="System.String">Other Nationality</DictionaryEntry>
+<DictionaryEntry key="6011" className="System.String">Unknown</DictionaryEntry>
+<DictionaryEntry key="6012" className="System.String">In this version, that relationship type is not supported</DictionaryEntry>
+
+<DictionaryEntry key="6013" className="System.String">Relationships</DictionaryEntry>
+<DictionaryEntry key="6014" className="System.String">Enter the name of the player</DictionaryEntry>
+<DictionaryEntry key="6015" className="System.String">Enter the name of the country</DictionaryEntry>
+<DictionaryEntry key="6016" className="System.String">Enter the name of the club</DictionaryEntry>
+<DictionaryEntry key="6017" className="System.String">Type:</DictionaryEntry>
+<DictionaryEntry key="6018" className="System.String">Value:</DictionaryEntry>
+
+
+<DictionaryEntry key="6050" className="System.String">Relationships</DictionaryEntry>
+<DictionaryEntry key="6051" className="System.String">Player:</DictionaryEntry>
+
+<DictionaryEntry key="0036" className="System.String">Affiliated Clubs</DictionaryEntry>
+<DictionaryEntry key="5000" className="System.String">Clone Center</DictionaryEntry>
+<DictionaryEntry key="5001" className="System.String">Player to clone:</DictionaryEntry>
+
+<DictionaryEntry key="5002" className="System.String">Add new player to list</DictionaryEntry>
+<DictionaryEntry key="5003" className="System.String">Remove selected player from list</DictionaryEntry>
+<DictionaryEntry key="5004" className="System.String">Start Cloning</DictionaryEntry>
+
+<DictionaryEntry key="5005" className="System.String">First and Last name</DictionaryEntry>
+<DictionaryEntry key="5006" className="System.String">Common Name</DictionaryEntry>
+<DictionaryEntry key="5007" className="System.String">Nationality</DictionaryEntry>
+<DictionaryEntry key="5008" className="System.String">Date of Birth</DictionaryEntry>
+<DictionaryEntry key="5009" className="System.String">Personality</DictionaryEntry>
+<DictionaryEntry key="5010" className="System.String">Attributes</DictionaryEntry>
+
+<DictionaryEntry key="5011" className="System.String">Enter the name of the player to be replaced</DictionaryEntry>
+<DictionaryEntry key="5012" className="System.String">Clone Center - Add player to be replaced</DictionaryEntry>
+
+<DictionaryEntry key="5013" className="System.String">All the players on the list were successfully cloned</DictionaryEntry>
+<DictionaryEntry key="5014" className="System.String">Cloning completed</DictionaryEntry>
+<DictionaryEntry key="5015" className="System.String">Players to Replace</DictionaryEntry>
+<DictionaryEntry key="5016" className="System.String">Attributes not to clone</DictionaryEntry>
+
+<DictionaryEntry key="4000" className="System.String">Runs with ball down left</DictionaryEntry>
+<DictionaryEntry key="4001" className="System.String">Runs with ball down right</DictionaryEntry>
+<DictionaryEntry key="4002" className="System.String">Runs with ball through centre</DictionaryEntry>
+<DictionaryEntry key="4003" className="System.String">Gets into opposition area</DictionaryEntry>
+<DictionaryEntry key="4004" className="System.String">Moves into channels</DictionaryEntry>
+<DictionaryEntry key="4005" className="System.String">Gets forward whenever possible</DictionaryEntry>
+<DictionaryEntry key="4006" className="System.String">Plays short simple passes</DictionaryEntry>
+<DictionaryEntry key="4007" className="System.String">Tries killer balls often</DictionaryEntry>
+<DictionaryEntry key="4008" className="System.String">Shoots from distance</DictionaryEntry>
+<DictionaryEntry key="4009" className="System.String">Shoots with power</DictionaryEntry>
+<DictionaryEntry key="4010" className="System.String">Places shots</DictionaryEntry>
+<DictionaryEntry key="4011" className="System.String">Curls ball</DictionaryEntry>
+<DictionaryEntry key="4012" className="System.String">Likes to round keeper</DictionaryEntry>
+<DictionaryEntry key="4013" className="System.String">Likes to try to beat offside trap</DictionaryEntry>
+<DictionaryEntry key="4014" className="System.String">Uses outside of foot</DictionaryEntry>
+<DictionaryEntry key="4015" className="System.String">Marks opponent tightly</DictionaryEntry>
+<DictionaryEntry key="4016" className="System.String">Winds up opponents</DictionaryEntry>
+<DictionaryEntry key="4017" className="System.String">Argues with officials</DictionaryEntry>
+<DictionaryEntry key="4018" className="System.String">Plays with back to goal</DictionaryEntry>
+<DictionaryEntry key="4019" className="System.String">Comes deep to get ball</DictionaryEntry>
+<DictionaryEntry key="4020" className="System.String">Plays one-twos</DictionaryEntry>
+<DictionaryEntry key="4021" className="System.String">Likes to lob keeper</DictionaryEntry>
+<DictionaryEntry key="4022" className="System.String">Dictates tempo</DictionaryEntry>
+<DictionaryEntry key="4023" className="System.String">Attempts overhead kicks</DictionaryEntry>
+<DictionaryEntry key="4024" className="System.String">Looks for pass rather than attempting to score</DictionaryEntry>
+<DictionaryEntry key="4025" className="System.String">Plays no through balls</DictionaryEntry>
+<DictionaryEntry key="4026" className="System.String">Stops play</DictionaryEntry>
+<DictionaryEntry key="4027" className="System.String">Knocks ball past opponent</DictionaryEntry>
+<DictionaryEntry key="4028" className="System.String">Moves ball to right foot before dribble attempt</DictionaryEntry>
+<DictionaryEntry key="4029" className="System.String">Moves ball to left foot before dribble attempt</DictionaryEntry>
+<DictionaryEntry key="4030" className="System.String">Dwells on ball </DictionaryEntry>
+<DictionaryEntry key="4031" className="System.String">Arrives late in opponents area</DictionaryEntry>
+<DictionaryEntry key="4032" className="System.String">Tries to play way out of trouble</DictionaryEntry>
+<DictionaryEntry key="4033" className="System.String">Stays back at all times</DictionaryEntry>
+<DictionaryEntry key="4034" className="System.String">Avoids using weaker foot</DictionaryEntry>
+<DictionaryEntry key="4035" className="System.String">Tries tricks</DictionaryEntry>
+<DictionaryEntry key="4036" className="System.String">Tries long range free kicks</DictionaryEntry>
+<DictionaryEntry key="4037" className="System.String">Dives into tackles</DictionaryEntry>
+<DictionaryEntry key="4038" className="System.String">Does not dive into tackles</DictionaryEntry>
+<DictionaryEntry key="4039" className="System.String">Cuts inside</DictionaryEntry>
+<DictionaryEntry key="4040" className="System.String">Hugs line</DictionaryEntry>
+<DictionaryEntry key="4041" className="System.String">Gets crowd going</DictionaryEntry>
+<DictionaryEntry key="4042" className="System.String">Tries first time shots</DictionaryEntry>
+<DictionaryEntry key="4043" className="System.String">Tries long range passes</DictionaryEntry>
+<DictionaryEntry key="4044" className="System.String">Likes ball played into feet</DictionaryEntry>
+<DictionaryEntry key="4045" className="System.String">Hits free kick with power</DictionaryEntry>
+<DictionaryEntry key="4046" className="System.String">Likes to beat man repeatedly</DictionaryEntry>
+<DictionaryEntry key="4047" className="System.String">Likes to switch ball to other flank</DictionaryEntry>
+
+<DictionaryEntry key="4050" className="System.String">Prefered Moves</DictionaryEntry>
+<DictionaryEntry key="4051" className="System.String">Player: </DictionaryEntry>
+<DictionaryEntry key="4052" className="System.String">Select All</DictionaryEntry>
+<DictionaryEntry key="4053" className="System.String">Deselect All</DictionaryEntry>
+<DictionaryEntry key="4054" className="System.String">Preferred moves</DictionaryEntry>
+<DictionaryEntry key="4055" className="System.String">Presets</DictionaryEntry>
+
+<DictionaryEntry key="1003" className="System.String">Information</DictionaryEntry>
+<DictionaryEntry key="1004" className="System.String">Finances</DictionaryEntry>
+<DictionaryEntry key="2064" className="System.String">Details</DictionaryEntry>
+<DictionaryEntry key="2065" className="System.String">Loan</DictionaryEntry>
+<DictionaryEntry key="3018" className="System.String">Personality</DictionaryEntry>
+
+<DictionaryEntry key="9001" className="System.String">Physical Attributes</DictionaryEntry>
+<DictionaryEntry key="9002" className="System.String">Mental Attributes</DictionaryEntry>
+<DictionaryEntry key="9003" className="System.String">Technical Attributes</DictionaryEntry>
+<DictionaryEntry key="9004" className="System.String">GoalKeeper Attributes</DictionaryEntry>
+<DictionaryEntry key="9005" className="System.String">New Positions</DictionaryEntry>
+<DictionaryEntry key="9006" className="System.String">Positions</DictionaryEntry>
+</Strings></Language>
